@@ -1,1 +1,4 @@
-# beer-website-code-challange
+
+# steps to run
+npm install
+npm start
